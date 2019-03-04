@@ -1,10 +1,14 @@
-# A1
+# Boat
 
-Tony Pacheco - A00987817 - tonypacheco.cillis@gmail.com  
-Amy Hong     - A01011697 - jhong81@my.bcit.ca
+[![npm version](https://img.shields.io/badge/npm-6.5.0-blue.svg)](https://www.npmjs.com/)
+[![Known Vulnerabilities](https://snyk.io/test/github/AmyHong0502/Boat/badge.svg?targetFile=frontend%2Fpackage.json)](https://snyk.io/test/github/AmyHong0502/Boat?targetFile=frontend%2Fpackage.json)
 
-WHAT WE HAVE NOT COMPLETED
+- Frontend: https://boatclient.azurewebsites.net/
+- Backend: https://boatapi.azurewebsites.net/
 
-API Backend https://boatapi.azurewebsites.net/ 
+## Built With
 
-Had a lot of trouble using SQLite on an Azure App Service, so we switched to an Azure hosted MSSQL database.
+- [Angular](https://angular.io/) - Frontend
+- [.NET Core](https://dotnet.github.io/) - Backend
+- [SQL Server](https://www.microsoft.com/en-ca/sql-server/sql-server-2017) - Database
+- [Microsoft Azure](https://azure.microsoft.com/en-ca/) - Deployment
